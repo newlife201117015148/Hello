@@ -6,5 +6,8 @@ public class Hello {
 		System.out.println("hello world !");
 		
 		System.out.println("込込込込   細細細");
+		
+		
+		System.out.println("Test hot_fix");
 	}
 }
